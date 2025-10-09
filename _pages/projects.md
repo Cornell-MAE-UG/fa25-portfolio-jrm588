@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jawad Mohamed - Portfolio
+title: <Jawad Mohamed> - Portfolio
 permalink: /projects/
 ---
 
