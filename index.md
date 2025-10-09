@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: Jawad Mohamed
 ---
 
 ## About Me
