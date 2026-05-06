@@ -35,7 +35,7 @@ Testing focused on separation performance and structural reliability. Results sh
 
 The initial design phase focused on exploring feasible solutions that could be implemented with minimal disruption to existing harvesting processes. The airflow-based concept was selected for further development due to its simplicity, low cost, and ability to leverage the weight difference between SLF and grapes.
 
-[View Full Client Pitch (PDF)](/Client%20Pitch.pdf)
+[View Full Client Pitch (PDF)](/Client%20Report%20(1)(1).pdf)
 
 ## Table of Contents
 - [Client Pitch](#client-pitch)
