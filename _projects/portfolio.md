@@ -10,6 +10,12 @@ This project addresses a critical issue in modern grape harvesting: the contamin
 
 The prototype demonstrates a simple, low-cost, and adjustable solution that improves product quality without interfering with the harvesting process. Testing showed consistent separation performance under optimized configurations, with further work recommended to scale and integrate the system into real harvesting environments. 
 
+## Client Report
+
+This section presents the final design, testing, and recommendations for the SLFilter system.
+
+[View Full Client Report (PDF)](/Client%20Report.pdf)
+
 ## Table of Contents
 - [Client Pitch](#client-pitch)
 - [Functional Prototype](#functional-prototype)
