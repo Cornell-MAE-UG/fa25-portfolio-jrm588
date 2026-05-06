@@ -1,9 +1,11 @@
 ---
-layout: project
-title: Statics Homework 
-description: Portfolio Sketch 
+layout: ODP Design 
+title: MAE 2250  
+description: Description 
 image: /assets/images/sketch.png
 ---
 
 
-For this portfolio project, I designed a 2D lifting mechanism within the 150 cm by 50 cm workspace using two fixed ground pins, a moving pin, and a linear actuator. The goal was to maximize the lifted weight and height achievable by the system. I chose a commercial actuator with a peak thrust of 3 kN and configured a simple A–B–C linkage so the actuator applied force at a shallow angle to increase the mechanical advantage. Using static equilibrium and moment balance about the ground pin, I derived a relationship between actuator force and output load, showing that the lift force increases with smaller actuator angles. I used trigonometric relationships to determine the geometry of the linkage and verified that the structure remained rigid and well-supported. The resulting design efficiently converts actuator thrust into vertical lift, allowing the mechanism to raise the maximum possible load to the greatest possible height within the given space constraints.
+This project addresses a critical issue in modern grape harvesting: the contamination of harvested grapes by spotted lanternflies (SLF), which can lead to entire shipments being rejected. Our team developed the **SLFilter**, an airflow-based separation system that integrates into existing harvesting equipment. By leveraging the significant weight difference between grapes and SLF, the system uses a controlled fan mechanism to blow the lighter insects into a separate collection area while allowing grapes to fall normally. 
+
+The prototype demonstrates a simple, low-cost, and adjustable solution that improves product quality without interfering with the harvesting process. Testing showed consistent separation performance under optimized configurations, with further work recommended to scale and integrate the system into real harvesting environments. 
