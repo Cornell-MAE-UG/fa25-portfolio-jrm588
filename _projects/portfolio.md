@@ -31,11 +31,11 @@ Testing focused on separation performance and structural reliability. Results sh
 
 - Identified contamination of harvested grapes by spotted lanternflies (SLF) as a major issue leading to shipment rejection and financial loss  
 - Defined the need for a non-invasive, post-harvest solution that integrates with existing harvesting systems  
-- Proposed an airflow-based concept to separate SLF from grapes by leveraging their significant weight difference  
+- Proposed multiple concepts, including an airflow-based separator and a mechanical grate system, to remove SLF from harvested grapes  
 
-The initial concept focused on creating a simple, low-cost add-on to the harvesting process that could act as a final-stage failsafe. Early design ideas explored how controlled airflow could redirect lighter SLF away from the grape stream without damaging the crop or disrupting harvesting operations.
+The initial design phase focused on exploring feasible solutions that could be implemented with minimal disruption to existing harvesting processes. The airflow-based concept was selected for further development due to its simplicity, low cost, and ability to leverage the weight difference between SLF and grapes.
 
-[View Full Client Pitch (PDF)](/client%20pitch%20ODP.pdf)
+[View Full Client Pitch](/_projects/client%20pitch%20ODP)
 
 ## Table of Contents
 - [Client Pitch](#client-pitch)
