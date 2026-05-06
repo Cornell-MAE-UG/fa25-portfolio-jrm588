@@ -2,7 +2,7 @@
 layout: ODP Design 
 title: MAE 2250  
 description: Description 
-image: /assets/images/sketch.png
+
 ---
 
 
