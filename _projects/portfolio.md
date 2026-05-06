@@ -14,7 +14,7 @@ The prototype demonstrates a simple, low-cost, and adjustable solution that impr
 
 This section presents the final design, testing, and recommendations for the SLFilter system.
 
-[View Full Client Report (PDF)](/Client%20Report.pdf)
+[View Full Client Report (PDF)](../Client%20Report.pdf)
 
 ## Functional Prototype
 
@@ -24,7 +24,7 @@ This section presents the final design, testing, and recommendations for the SLF
 
 Testing focused on separation performance and structural reliability. Results showed that the fan remained stable in all tested positions, and the system successfully separated simulated SLF and grapes, achieving up to ~7 inches of separation under optimal conditions. The nozzle design was ultimately removed due to inconsistent airflow performance.
 
-[View Full Functional Prototype (PDF)](/YellowJackets%20ODP5_%20Functional%20Prototype%20(1).pdf)
+[View Full Functional Prototype (PDF)](../YellowJackets%20ODP5_%20Functional%20Prototype%20(1).pdf)
 
 
 ## Client Pitch
@@ -35,7 +35,7 @@ Testing focused on separation performance and structural reliability. Results sh
 
 The initial design phase focused on exploring feasible solutions that could be implemented with minimal disruption to existing harvesting processes. The airflow-based concept was selected for further development due to its simplicity, low cost, and ability to leverage the weight difference between SLF and grapes.
 
-[View Full Client Pitch (PDF)](/Client%20Pitch.pdf)
+[View Full Client Pitch (PDF)](../Client%20Pitch.pdf)
 
 ## Table of Contents
 - [Client Pitch](#client-pitch)
