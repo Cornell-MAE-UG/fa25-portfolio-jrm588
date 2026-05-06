@@ -26,6 +26,17 @@ Testing focused on separation performance and structural reliability. Results sh
 
 [View Full Functional Prototype (PDF)](/YellowJackets%20ODP5_%20Functional%20Prototype%20(1).pdf)
 
+
+## Client Pitch
+
+- Identified contamination of harvested grapes by spotted lanternflies (SLF) as a major issue leading to shipment rejection and financial loss  
+- Defined the need for a non-invasive, post-harvest solution that integrates with existing harvesting systems  
+- Proposed an airflow-based concept to separate SLF from grapes by leveraging their significant weight difference  
+
+The initial concept focused on creating a simple, low-cost add-on to the harvesting process that could act as a final-stage failsafe. Early design ideas explored how controlled airflow could redirect lighter SLF away from the grape stream without damaging the crop or disrupting harvesting operations.
+
+[View Full Client Pitch (PDF)](/client%20pitch%20ODP.pdf)
+
 ## Table of Contents
 - [Client Pitch](#client-pitch)
 - [Functional Prototype](#functional-prototype)
