@@ -24,7 +24,7 @@ This section presents the final design, testing, and recommendations for the SLF
 
 Testing focused on separation performance and structural reliability. Results showed that the fan remained stable in all tested positions, and the system successfully separated simulated SLF and grapes, achieving up to ~7 inches of separation under optimal conditions. The nozzle design was ultimately removed due to inconsistent airflow performance.
 
-[View Full Functional Prototype (PDF)](../YellowJackets%20ODP5_%20Functional%20Prototype%20(1).pdf)
+[View Our Client Report]({{ "assets/YellowJackets ODP5_Functional Prototype.pdf" | relative_url }})
 
 
 ## Client Pitch
