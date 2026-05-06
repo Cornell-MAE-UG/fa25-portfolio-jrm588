@@ -14,7 +14,7 @@ The prototype demonstrates a simple, low-cost, and adjustable solution that impr
 
 This section presents the final design, testing, and recommendations for the SLFilter system.
 
-[View Full Client Report (PDF)](../Client%20Report.pdf)
+[View Our Client Report]({{ "assets/Client Report.pdf" | relative_url }})
 
 ## Functional Prototype
 
