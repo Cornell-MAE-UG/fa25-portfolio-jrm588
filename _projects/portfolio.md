@@ -14,7 +14,7 @@ The prototype demonstrates a simple, low-cost, and adjustable solution that impr
 
 This section presents the final design, testing, and recommendations for the SLFilter system.
 
-/fa25-portfolio-jrm588/Client%20Report.pdf
+[View Our Client Report]({{ "assets/Client Report.pdf" | relative_url }})
 
 ## Functional Prototype
 
@@ -35,7 +35,7 @@ Testing focused on separation performance and structural reliability. Results sh
 
 The initial design phase focused on exploring feasible solutions that could be implemented with minimal disruption to existing harvesting processes. The airflow-based concept was selected for further development due to its simplicity, low cost, and ability to leverage the weight difference between SLF and grapes.
 
-[View Full Client Pitch (PDF)](../Client%20Pitch.pdf)
+[View Our Client Report]({{ "assets/Client Pitch.pdf" | relative_url }})
 
 ## Table of Contents
 - [Client Pitch](#client-pitch)
