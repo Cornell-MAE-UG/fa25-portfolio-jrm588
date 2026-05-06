@@ -16,6 +16,16 @@ This section presents the final design, testing, and recommendations for the SLF
 
 [View Full Client Report (PDF)](/Client%20Report.pdf)
 
+## Functional Prototype
+
+- Designed and built a physical prototype using a 12V fan, adjustable mounting system, and balsa wood structure  
+- Implemented key components including a loading tray with a rotational gate, airflow nozzle, and adjustable fan positioning system  
+- Enabled testing of multiple fan angles and configurations using a modular hole pattern and mounting design  
+
+Testing focused on separation performance and structural reliability. Results showed that the fan remained stable in all tested positions, and the system successfully separated simulated SLF and grapes, achieving up to ~7 inches of separation under optimal conditions. The nozzle design was ultimately removed due to inconsistent airflow performance.
+
+[View Full Functional Prototype (PDF)](/YellowJackets%20ODP5_%20Functional%20Prototype%20(1).pdf)
+
 ## Table of Contents
 - [Client Pitch](#client-pitch)
 - [Functional Prototype](#functional-prototype)
